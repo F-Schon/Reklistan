@@ -4,9 +4,8 @@ Epilepsi
 Akutbehandling
 --------------
 
-Stesolid prefill *(diazepam)*
-
-Stesolid Novum *(diazepam)*
+    Stesolid prefill (diazepam)
+    Stesolid Novum (diazepam)
 
 -   Behandla akuta anfall hos vuxna med 10-20 mg Stesolid om anfallet
     varat mer än 3 minuter och fortfarande pågår.
@@ -14,8 +13,8 @@ Stesolid Novum *(diazepam)*
 Underhållsbehandling yngre vuxna
 --------------------------------
 
-1. Lamotrigin Actavis *(lamotrigin)* (S)
-2. Ergenyl Retard *(valproinsyra)* (S)
+    1. Lamotrigin Actavis (lamotrigin) (S)
+    2. Ergenyl Retard (valproinsyra) (S)
 
 -   Yngre patienter bör behandlas av neurolog eller läkare med stor
     erfarenhet av epilepsibehandling.
@@ -30,8 +29,8 @@ Underhållsbehandling yngre vuxna
 Underhållsbehandling äldre
 --------------------------
 
-1. Ergenyl Retard *(valproinsyra)*
-2. Lamotrigin Actavis *(lamotrigin)* (S)
+    1. Ergenyl Retard (valproinsyra)
+    2. Lamotrigin Actavis (lamotrigin) (S)
 
 -   Ergenyl är förstahandsmedel efter stroke.
 -   Lamotrigin Actavis rekommenderas vid nyinsättning. Byte till

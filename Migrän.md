@@ -6,11 +6,10 @@ Migrän
 Akutbehandling
 --------------
 
-1. Treo *(acetylsalicylsyra+ koffein)* och vid behov Primperan
-*(metoklopramid)* supp
-2. \*Diclofenac-T och vid behov Primperan *(metoklopramid)* supp
-3. \*Sumatriptan tabletter *(sumatriptan)*
-4. Zomig Nasal *(zolmitriptan)*
+    1. Treo (acetylsalicylsyra+ koffein) och vid behov Primperan (metoklopramid) supp
+    2. *Diclofenac-T och vid behov Primperan (metoklopramid) supp
+    3. *Sumatriptan tabletter (sumatriptan)
+    4. Zomig Nasal (zolmitriptan)
 
 -   ASA/NSAID prövas innan triptaner övervägs.
 -   Sumatriptantabletter kostar ungefär en tiondel jämfört med övriga
@@ -24,5 +23,5 @@ Akutbehandling
 Profylax
 --------
 
-\*Metoprolol *(metoprolol)*
+    *Metoprolol (metoprolol) 
 
