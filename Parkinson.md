@@ -1,14 +1,16 @@
 Parkinsons sjukdom
-------------------
+==================
 
-**Yngre**
+Yngre
+-----
 
 1. Requip *(ropinirol)* (S)
 1. Sifrol depot *(pramipexol)* (S)
 2. Madopark *(levodopa+benserazid)* (S)
 3. Comtess *(entakapon)* (S)
 
-**Äldre**
+Äldre
+-----
 
 1. Madopark *(levodopa+benserazid)*
 2. Requip *(ropinirol)* (S)

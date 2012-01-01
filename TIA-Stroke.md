@@ -1,5 +1,5 @@
 TIA/Stroke
-----------
+==========
 
 1. \*Enalapril *(enalapril)*
 1. \*Simvastatin *(simvastatin)*

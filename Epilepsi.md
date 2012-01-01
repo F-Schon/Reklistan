@@ -1,7 +1,8 @@
 Epilepsi
---------
+========
 
-**Akutbehandling**
+Akutbehandling
+--------------
 
 Stesolid prefill *(diazepam)*
 
@@ -10,7 +11,8 @@ Stesolid Novum *(diazepam)*
 -   Behandla akuta anfall hos vuxna med 10-20 mg Stesolid om anfallet
     varat mer än 3 minuter och fortfarande pågår.
 
-**Underhållsbehandling yngre vuxna**
+Underhållsbehandling yngre vuxna
+--------------------------------
 
 1. Lamotrigin Actavis *(lamotrigin)* (S)
 2. Ergenyl Retard *(valproinsyra)* (S)
@@ -25,7 +27,8 @@ Stesolid Novum *(diazepam)*
     mg 1x1 när graviditet planeras eller sättas in på Folacin vid
     konstaterad graviditet.
 
-**Underhållsbehandling äldre**
+Underhållsbehandling äldre
+--------------------------
 
 1. Ergenyl Retard *(valproinsyra)*
 2. Lamotrigin Actavis *(lamotrigin)* (S)

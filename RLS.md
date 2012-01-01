@@ -1,5 +1,5 @@
 Restless legs syndrom
----------------------
+=====================
 
 Informera om möjligt samband med alkohol, rökning och koffeinintag.
 

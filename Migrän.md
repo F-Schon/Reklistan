@@ -1,9 +1,10 @@
 Migrän
-------
+======
 
 [Riktlinjer se LLK:s hemsida](http://intern.ltkronoberg.se/templates/LTKPageWithPicture____16552.aspx)
 
-**Akutbehandling**
+Akutbehandling
+--------------
 
 1. Treo *(acetylsalicylsyra+ koffein)* och vid behov Primperan
 *(metoklopramid)* supp
@@ -20,7 +21,8 @@ Migrän
 -   [TLV-genomgången av läkemedel mot migrän 2009](http://www.tlv.se/Upload/Genomgangen/rapport-migran.pdf)
 -   [Läkemedelsboken 2011-2012](http://www.lakemedelsverket.se/upload/om-lakemedelsverket/publikationer/lakemedelsboken/LB2011-2012-interaktiv.pdf)
 
-**Profylax**
+Profylax
+--------
 
 \*Metoprolol *(metoprolol)*
 
