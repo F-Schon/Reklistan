@@ -15,7 +15,7 @@ Underhållsbehandling vid strukturell epilepsi
 
     Ergenyl Retard (valproinsyra) (S)
     Lamotrigin Actavis (lamotrigin) (S)
-    Levetiracetam XXX (levetiracetam) (S)
+    Levetiracetam Sandoz (levetiracetam) (S)
     Tegretol Retard (karbamazepin)
 
 -   Val av läkemedel bör ske utifrån patientens sjukdomsbild och övrig
