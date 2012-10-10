@@ -11,9 +11,10 @@ Akutbehandling
     3. *Sumatriptan tabletter (sumatriptan)
     4. Zomig Nasal (zolmitriptan)
 
+-   Icke-farmakologisk behandling bör ingå tidigt i behandlingen
+-   Vid svårbehandlad migrän överväg samtidig spänningshuvudvärk eller
+    läkemedelsinducerad huvudvärk
 -   ASA/NSAID prövas innan triptaner övervägs.
--   Sumatriptantabletter kostar ungefär en tiondel jämfört med övriga
-    triptaner.
 -   Alla patienter med Imigran injektionsvätska bör erbjudas att pröva
     Zomig Nasal.
 -   Övriga triptaner tillför inget utöver de rekommenderade.
@@ -24,4 +25,8 @@ Profylax
 --------
 
     *Metoprolol (metoprolol) 
+
+-   Övriga medel för migränprofylax (topiramat, valproat) är
+    specialistpreparat
+-   Pizotifen kommer att avregistreras under 2013
 
