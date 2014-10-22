@@ -4,8 +4,8 @@ Migrän
 Akutbehandling
 --------------
 
+    1. Bamyl koffein (acetylsalicylsyra + koffein)
     1. *Naproxen (naproxen)
-    1. Treo (acetylsalicylsyra + koffein)
     2. *Sumatriptan (sumatriptan) tablett
     3. Zomig Nasal (zolmitriptan)
 
