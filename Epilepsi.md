@@ -4,14 +4,19 @@ Epilepsi
 Akutbehandling
 --------------
 
-    Stesolid prefill (diazepam)
-    Stesolid Novum (diazepam)
+    1. Stesolid prefill (diazepam)
+    1. Stesolid Novum (diazepam)
+    2. Buccolam (midazolam) munhålelösning
 
 -   Behandla akuta anfall hos vuxna med 10-20 mg Stesolid om anfallet
     varat mer än 3 minuter och fortfarande pågår.
--   Midazolam buckalt eller intramuskulärt kan vara ett alternativ till rektalt diazepam.
--   Intramuskulärt midazolam kan vara ett alternativ för patienter som saknar fungerande venös infart.
-
+-   Intramuskulärt midazolam kan vara ett alternativ för patienter som saknar
+    fungerande venös infart.
+-   Buccolam (midazolam) är en munhålelösning i förfylld spruta för peroral
+    användning.
+-   Buccolam är godkänt endast för barn men den högre dosen kan användas även
+    till vuxna patienter där anfallsbehandling med rektalt diazepam inte är
+	lämpligt.
 
 Underhållsbehandling vid strukturell epilepsi
 ---------------------------------------------
@@ -28,7 +33,8 @@ Underhållsbehandling vid strukturell epilepsi
     erfarenhet av epilepsibehandling.
 -   Generika rekommenderas vid nyinsättning. Byte till generika bör övervägas
     vid receptförnyelse. 
--   Ergenyl ska undvikas till kvinnor i fertil ålder.
+-   Ergenyl ska undvikas till kvinnor i fertil ålder pga hög risk för
+	fosterskador vid graviditet.
 -   Ergenyl ska ges med försiktighet till patienter med kognitiv svikt.
 -   Kvinnor som behandlas med antiepileptika bör behandlas med Folacin 5
     mg 1x1 när graviditet planeras eller sättas in på Folacin vid
