@@ -1,6 +1,10 @@
 Migrän
 ======
 
+Uppmärksamma påverkbara levnadsvanor: tobak, fysisk aktivitet, alkohol, mat, långvarig stress.
+
+[Medicinska riktlinjer Levnadsvanor](http://intern.ltkronoberg.se/hem/HoS/HoS-personal/VardrutinerPM/Halsoframjande/)
+
 Akutbehandling
 --------------
 
@@ -12,10 +16,7 @@ Akutbehandling
 -   Icke-farmakologisk behandling bör ingå tidigt i behandlingen
 -   Vid svårbehandlad migrän överväg samtidig spänningshuvudvärk eller
     läkemedelsinducerad huvudvärk
--   ASA/NSAID prövas innan triptaner övervägs.
 -   För injektionsbehandling är generiskt sumatriptan förstahandsval
--   Övriga triptaner tillför inget utöver de rekommenderade.
--   Primperan supp avregistrerad.
 -   [Läkemedelsboken 2014](http://www.lakemedelsboken.se)
 
 Profylax
@@ -25,4 +26,6 @@ Profylax
 
 -   Övriga medel för migränprofylax (topiramat, valproat) är
     specialistpreparat
-
+-   Botulinum-toxin kan användas vid migränhuvudvärk med mer än 15
+    huvudvärksdagar per månad när minst två andra profylaxbehandlingar
+	inte har haft effekt. Ska endast användas efter neurologbedömning.
