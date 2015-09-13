@@ -12,6 +12,8 @@ med lätta analgetika.
 
 -   Vid långtidsbehandling av yngre patienter, beakta risken för augmentation
     (behov av dosökning pga läkemedelspåverkan)
--	Gabapentin eller Lyrica kan användas vid otillräcklig effekt.
+-	Gabapentin eller pregabalin kan användas vid otillräcklig effekt.
+-   Järnbehandling (i normalfallet peroral) kan ibland vara 
+    symtomlindrande vid ferritin-nivå under 50 µg/l.
 -   [Läkemedelsverkets riktlinje RLS 2009](http://www.lakemedelsverket.se/malgrupp/Halso---sjukvard/Behandlings--rekommendationer/Behandlingsrekommendation---listan/Restless-legs-syndrom-RLS)
--   [SBU Alert rapport 2009-4](http://www.sbu.se/sv/Publicerat/Alert/Dopaminerga-medel-vid-restless-legs-syndrome)
+-   [Läkemedelsboken 2014](http://www.lakemedelsboken.se/)
