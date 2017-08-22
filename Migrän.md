@@ -3,7 +3,7 @@ Migrän
 
 Uppmärksamma påverkbara levnadsvanor: tobak, fysisk aktivitet, alkohol, mat, långvarig stress.
 
-[Medicinska riktlinjer Levnadsvanor](http://intern.ltkronoberg.se/hem/HoS/HoS-personal/VardrutinerPM/Halsoframjande/)
+[Medicinska riktlinjer Levnadsvanor](http://www.regionkronoberg.se/vardgivare/vardriktlinjer/medicinska-riktlinjer/levnadsvanor/)
 
 Akutbehandling
 --------------
@@ -14,13 +14,11 @@ Akutbehandling
     3. Zomig Nasal (zolmitriptan)
 
 -   Icke-farmakologisk behandling bör ingå tidigt i behandlingen. 
-    Uppmärksamma påverkbara levnadsvanor: tobak, fysisk aktivitet,
-	alkohol, mat, långvarig stress.
 -   Vid svårbehandlad migrän överväg samtidig spänningshuvudvärk eller
     läkemedelsinducerad huvudvärk
 -   För injektionsbehandling är generiskt sumatriptan förstahandsval.
 -   Munlösligt ondansetron kan användas mot illamående.
--   [Läkemedelsboken 2014](http://www.lakemedelsboken.se)
+-   [Läkemedelsboken 2014](http://lakemedelsboken.se/kapitel/neurologi/huvudvark.html)
 
 Profylax
 --------
