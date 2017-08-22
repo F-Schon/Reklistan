@@ -15,4 +15,4 @@ läkemedelsbiverkan (neuroleptika, antidepressiva) eller polyneuropati.
     beakta risken för augmentation (med behov av dosökning pga
 	läkemedelspåverkan).
 -   [Läkemedelsverkets riktlinje RLS 2009](http://www.lakemedelsverket.se/malgrupp/Halso---sjukvard/Behandlings--rekommendationer/Behandlingsrekommendation---listan/Restless-legs-syndrom-RLS)
--   [Läkemedelsboken 2014](http://www.lakemedelsboken.se/)
+-   [Läkemedelsboken](http://lakemedelsboken.se/kapitel/neurologi/allman_neurologi_och_multipel_skleros.html)
