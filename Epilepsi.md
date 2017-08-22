@@ -29,7 +29,7 @@ Underhållsbehandling vid strukturell epilepsi
 <p>
 
     Ergenyl Retard (valproinsyra) (S)
-    Lamotrigin Actavis (lamotrigin) (S)
+    Lamotrigin 1A Farma (lamotrigin) (S)
     Levetiracetam STADA (levetiracetam)
     Tegretol Retard (karbamazepin)
 
@@ -39,7 +39,7 @@ Underhållsbehandling vid strukturell epilepsi
 -   Levetiracetam doseras efter njurfunktion.
 -   Tegretol Retard (karbamazepin). Försiktighet till patienter med asiatiskt
     ursprung (se FASS).
--   [Läkemedelsverkets behandlingsriktlinjer 2011](http://www.lakemedelsverket.se/upload/halso-och-sjukvard/behandlingsrekommendationer/2011_02_02_Rek%20Eilepsi-webb.pdf)
+-   [Läkemedelsverkets behandlingsriktlinjer 2011](https://lakemedelsverket.se/malgrupp/Halso---sjukvard/Behandlings--rekommendationer/Behandlingsrekommendation---listan/Epilepsi/)
 -   Generika rekommenderas vid nyinsättning. Byte till generika bör övervägas
     vid receptförnyelse. 
 -   Kvinnor som behandlas med antiepileptika bör behandlas med Folacin 5
