@@ -45,6 +45,7 @@ Lipidsänkande behandling
 - För patienter med atheroskleros i carotisartärerna bör högintensiv 
   kolesterolsänkning övervägas.
 
+
 Patienter utan förmaksflimmer
 -----------------------------
     1. *Clopidogrel (klopidogrel)
@@ -55,6 +56,7 @@ Patienter utan förmaksflimmer
 Patienter med förmaksflimmer
 ----------------------------
     1. Eliquis (apixaban)
+    2. Pradaxa (dabigatran)
     2. Warfarin (warfarin)
 
 -   [Nationella riktlinjer för strokesjukvård Socialstyrelsen 2009 uppdatering 2014](http://www.socialstyrelsen.se/nationellariktlinjerforstrokesjukvard)
