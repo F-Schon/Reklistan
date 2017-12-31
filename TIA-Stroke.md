@@ -9,7 +9,7 @@ akutmottagning för utredning och behandling på strokeenhet.
 För patienter som kan behandlas inom 4,5 timme från symtomdebut. Vid 
 kontraindikation mot systemisk behandling kan trombektomi övervägas.
 
-    2. Trombyl (acetylsalicylsyra)
+    2. *Acetylsalicylsyra (acetylsalicylsyra)
 
 Bolusdos 300 mg ges snarast efter att blödning uteslutits radiologiskt. 
 Ges tidigast 24 timmar efter Actilyse efter genomförd kontrollröntgen.
@@ -49,7 +49,7 @@ Lipidsänkande behandling
 Patienter utan förmaksflimmer
 -----------------------------
     1. *Clopidogrel (klopidogrel)
-	2. Trombyl (acetylsalicylsyra) 75mg x 1
+	2. *Acetylsalicylsyra (acetylsalicylsyra) 75mg x 1
 
 - Undvik kombination med omeprazol. Byt till pantoprazol om syrahämning krävs.
 
