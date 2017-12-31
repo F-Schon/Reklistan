@@ -42,7 +42,5 @@ Underhållsbehandling vid strukturell epilepsi
 -   [Läkemedelsverkets behandlingsriktlinjer 2011](https://lakemedelsverket.se/malgrupp/Halso---sjukvard/Behandlings--rekommendationer/Behandlingsrekommendation---listan/Epilepsi/)
 -   Generika rekommenderas vid nyinsättning. Byte till generika bör övervägas
     vid receptförnyelse. 
--   Kvinnor som behandlas med antiepileptika bör behandlas med Folacin 5
-    mg 1x1 när graviditet planeras eller sättas in på Folacin vid
-    konstaterad graviditet.
-
+-   Kvinnor som behandlas med antiepileptika bör behandlas med folsyra 5 mg 
+    dagligen inför planerad eller vid konstaterad graviditet.
