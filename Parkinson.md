@@ -38,7 +38,7 @@ Läkemedelsbehandling av icke-motoriska symtom
 
     1. Effortil (etilefrin)
     2. Florinef (fludrokortison) (S)
-    3. Gutron (midodrine) 5-10 mg x 3 (licens) (S)
+    3. Midodrin (midodrin) (S)
 
 -	Patienter med Parkinsons sjukdom bör följas via Parkinsonteam
 -	Patienter med Parkinsons sjukdom i komplikationsfas är ofta 
