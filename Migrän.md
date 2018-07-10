@@ -29,4 +29,6 @@ Profylax
     specialistpreparat
 -   Botulinum-toxin kan användas vid migränhuvudvärk med mer än 15
     huvudvärksdagar per månad när minst två andra profylaxbehandlingar
-	inte har haft effekt. Ska endast användas efter neurologbedömning.
+    inte har haft effekt. Ska endast användas efter neurologbedömning.
+-   Aimovig *(erenumab)* är föremål för nationellt ordnat införande och
+    bör endast förskrivas enligt separat riktlinje.
