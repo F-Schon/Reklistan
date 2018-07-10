@@ -26,7 +26,6 @@ av neurolog eller läkare med stor erfarenhet av epilepsibehandling.
     Lamotrigin XXX (lamotrigin)
     Levetiracetam XXX (levetiracetam)
 
--   [Läkemedelsverkets behandlingsriktlinjer 2011](https://lakemedelsverket.se/malgrupp/Halso---sjukvard/Behandlings--rekommendationer/Behandlingsrekommendation---listan/Epilepsi/)
 -   Övriga preparat bör ses som specialistläkemedel.
 -   Levetiracetam doseras efter njurfunktion.
 -   Byte till generika bör övervägas vid receptförnyelse. 

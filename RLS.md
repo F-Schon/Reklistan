@@ -14,5 +14,4 @@ läkemedelsbiverkan (neuroleptika, antidepressiva) eller polyneuropati.
 -   Vid långtidsbehandling av yngre patienter med dopaminerga preparat,
     beakta risken för augmentation (med behov av dosökning pga
     läkemedelspåverkan).
--   [Läkemedelsverkets riktlinje RLS 2009](http://www.lakemedelsverket.se/malgrupp/Halso---sjukvard/Behandlings--rekommendationer/Behandlingsrekommendation---listan/Restless-legs-syndrom-RLS)
 -   [Läkemedelsboken](http://lakemedelsboken.se/kapitel/neurologi/allman_neurologi_och_multipel_skleros.html)
