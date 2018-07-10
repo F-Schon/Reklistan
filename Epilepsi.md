@@ -20,27 +20,15 @@ Akutbehandling
 Underhållsbehandling vid strukturell epilepsi
 ---------------------------------------------
 
--   Val av läkemedel bör ske utifrån patientens sjukdomsbild och övrig
-    läkemedelsbehandling.
--   Monoterapi bör eftersträvas.
--   Yngre patienter bör behandlas av neurolog eller läkare med stor
-    erfarenhet av epilepsibehandling.
+Yngre patienter, patienter med genetisk epilepsi eller epileptiska syndrom bör behandlas
+av neurolog eller läkare med stor erfarenhet av epilepsibehandling.
 
-<p>
+    Lamotrigin XXX (lamotrigin)
+    Levetiracetam XXX (levetiracetam)
 
-    Ergenyl Retard (valproinsyra) (S)
-    Lamotrigin 1A Farma (lamotrigin) (S)
-    Levetiracetam STADA (levetiracetam)
-    Tegretol Retard (karbamazepin)
-
--   Ergenyl ska undvikas till kvinnor i fertil ålder p.g.a. hög risk för
-    fosterskador vid graviditet. Bör användas med försiktighet till patienter
-    med kognitiv svikt.
--   Levetiracetam doseras efter njurfunktion.
--   Tegretol Retard (karbamazepin). Försiktighet till patienter med asiatiskt
-    ursprung (se FASS).
 -   [Läkemedelsverkets behandlingsriktlinjer 2011](https://lakemedelsverket.se/malgrupp/Halso---sjukvard/Behandlings--rekommendationer/Behandlingsrekommendation---listan/Epilepsi/)
--   Generika rekommenderas vid nyinsättning. Byte till generika bör övervägas
-    vid receptförnyelse. 
+-   Övriga preparat bör ses som specialistläkemedel.
+-   Levetiracetam doseras efter njurfunktion.
+-   Byte till generika bör övervägas vid receptförnyelse. 
 -   Kvinnor som behandlas med antiepileptika bör behandlas med folsyra 5 mg 
     dagligen inför planerad eller vid konstaterad graviditet.
