@@ -8,7 +8,7 @@ med lätta analgetika. Överväg sekundär RLS, exempelvis järnbrist,
 läkemedelsbiverkan (neuroleptika, antidepressiva) eller polyneuropati.
 
     1. *Pramipexol (pramipexol)
-    2. Madopark (levodopa+benserazid)
+    2. *Levodopa/benserazid (levodopa + benserazid)
     3. Gabapentin (gabapentin)
 
 -   Vid långtidsbehandling av yngre patienter med dopaminerga preparat,

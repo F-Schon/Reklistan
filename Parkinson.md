@@ -4,11 +4,11 @@ Parkinsons sjukdom
 Läkemedelsbehandling av motoriska symtom
 ----------------------------------------
 
-    1. Madopark (levodopa + benserazid)
+    1. *Levodopa/benserazid (levodopa + benserazid)
     1. *Pramipexol (pramipexol) depottablett
     1. *Ropinolol (ropinirol) depottablett 
     2. *Entacapone (entakapon)
-    3. Azilect (rasagilin)
+    3. *Rasagilin (rasagilin)
 
 - Till yngre patienter rekommenderas i första hand dopaminagonister.
 - Amantadin (licens) kan användas vid svåra motoriska fluktuationer.

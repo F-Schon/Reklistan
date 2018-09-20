@@ -36,7 +36,7 @@ Lipidsänkande behandling
 
     1. *Atorvastatin (atorvastatin)
     1. *Simvastatin (simvastatin)
-	2. Ezetrol (ezetimib) som tillägg till statin
+    2. *Ezetimib (ezetimib) som tillägg till statin
 
 - För patienter med atheroskleros i carotisartärerna bör högintensiv 
   kolesterolsänkning övervägas.
