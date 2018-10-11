@@ -23,10 +23,9 @@ Akutbehandling
 Profylax
 --------
 
-    *Metoprolol (metoprolol) depottablett
+    1. *Metoprolol (metoprolol) depottablett
+    2. Topiramat (topiramat) (S)
 
--   Övriga medel för migränprofylax (topiramat, valproat) är
-    specialistpreparat
 -   Botulinum-toxin kan användas vid migränhuvudvärk med mer än 15
     huvudvärksdagar per månad när minst två andra profylaxbehandlingar
     inte har haft effekt. Ska endast användas efter neurologbedömning.
