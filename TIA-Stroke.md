@@ -41,8 +41,8 @@ Lipidsänkande behandling
 - För patienter med atheroskleros i carotisartärerna bör högintensiv 
   kolesterolsänkning övervägas.
 
-Patienter utan förmaksflimmer
------------------------------
+Trombosprofylax för patienter utan förmaksflimmer
+-------------------------------------------------
 
     1. *Clopidogrel (klopidogrel)
     2. *Acetylsalicylsyra (acetylsalicylsyra) 75mg x 1
@@ -51,8 +51,8 @@ Patienter utan förmaksflimmer
 - Långtidsbehandling med dubbel trombocythämning bör undvikas pga risk för
   blödning.
 
-Patienter med förmaksflimmer
-----------------------------
+Emboliprofylax för patienter med förmaksflimmer
+-----------------------------------------------
 
     1. Eliquis (apixaban)
     2. Pradaxa (dabigatran)
