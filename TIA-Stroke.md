@@ -49,7 +49,7 @@ Trombosprofylax för patienter utan förmaksflimmer
 
 - Undvik kombination med omeprazol. Byt till pantoprazol om syrahämning krävs.
 - Långtidsbehandling med dubbel trombocythämning bör undvikas pga risk för
-  blödning.
+  blödning. Ange sluttid vid ordination.
 
 Emboliprofylax för patienter med förmaksflimmer
 -----------------------------------------------
