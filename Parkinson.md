@@ -1,8 +1,8 @@
 Parkinsons sjukdom
 ==================
 
-Läkemedelsbehandling av motoriska symtom
-----------------------------------------
+Motoriska symtom
+----------------
 
     1. *Levodopa/benserazid (levodopa + benserazid)
     1. *Pramipexol (pramipexol) depottablett
@@ -13,8 +13,8 @@ Läkemedelsbehandling av motoriska symtom
 - Till yngre patienter rekommenderas i första hand dopaminagonister.
 - Amantadin (licens) kan användas vid svåra motoriska fluktuationer.
 
-Läkemedelsbehandling av icke-motoriska symtom
-----------------------------------------
+Icke-motoriska symtom
+---------------------
 
 **Kognitiv svikt**
 
