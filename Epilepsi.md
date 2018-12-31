@@ -23,11 +23,12 @@ Underhållsbehandling vid strukturell epilepsi
 Yngre patienter, patienter med genetisk epilepsi eller epileptiska syndrom bör behandlas
 av neurolog eller läkare med stor erfarenhet av epilepsibehandling.
 
-    Lamotrigin XXX (lamotrigin)
-    Levetiracetam XXX (levetiracetam)
+    Lamotrigin (lamotrigin)
+    Levetiracetam (levetiracetam)
 
 -   Övriga preparat bör ses som specialistläkemedel.
 -   Levetiracetam doseras efter njurfunktion.
 -   Byte till generika bör övervägas vid receptförnyelse. 
 -   Kvinnor som behandlas med antiepileptika bör behandlas med folsyra 5 mg 
-    dagligen inför planerad eller vid konstaterad graviditet.
+    1x1 när graviditet planeras eller sättas in på folsyra vid konstaterad
+	graviditet.

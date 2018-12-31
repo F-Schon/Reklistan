@@ -4,7 +4,9 @@ Restless legs syndrom
 Informera om möjligt samband med alkohol, rökning och koffeinintag.
 
 Rekommendationen gäller när besvären ej kan dämpas tillfredsställande
-med lätta analgetika. Överväg sekundär RLS, exempelvis järnbrist, diabetes, 
+med lätta analgetika. 
+
+Överväg sekundär RLS, exempelvis järnbrist, diabetes, 
 läkemedelsbiverkan (neuroleptika, antidepressiva) eller polyneuropati.
 
     1. *Pramipexol (pramipexol)

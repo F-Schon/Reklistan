@@ -8,7 +8,7 @@ Uppmärksamma påverkbara levnadsvanor: tobak, fysisk aktivitet, alkohol, mat, l
 Akutbehandling
 --------------
 
-    1. Bamyl koffein (acetylsalicylsyra + koffein)
+    1. *Bamyl koffein (acetylsalicylsyra + koffein)
     1. *Naproxen (naproxen)
     2. *Sumatriptan (sumatriptan) tablett
     3. Zomig Nasal (zolmitriptan)
@@ -18,7 +18,7 @@ Akutbehandling
     läkemedelsinducerad huvudvärk
 -   För injektionsbehandling är generiskt sumatriptan förstahandsval.
 -   Munlösligt ondansetron kan användas mot illamående.
--   [Läkemedelsboken 2014](http://lakemedelsboken.se/kapitel/neurologi/huvudvark.html)
+-   [Läkemedelsboken](http://lakemedelsboken.se/kapitel/neurologi/huvudvark.html)
 
 Profylax
 --------

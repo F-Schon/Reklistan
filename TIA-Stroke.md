@@ -16,7 +16,8 @@ akutmottagning för utredning och behandling på strokeenhet.
 -   Om behandling inte kan påbörjas inom 24 timmar från insjuknandet
     bör trombocythämning endast ges i monoterapi enligt nedan.
 -   Vid bakomliggande atherosklerotisk sjukdom ges kombinationsbehandling
-    med acetylsalicylsyra och clopidogrel  i 3 veckor.
+    med acetylsalicylsyra och clopidogrel i 3 veckor. Ange sluttid vid 
+	ordination.
 
 TIA/Stroke - sekundärprevention
 ===============================
@@ -39,7 +40,7 @@ Lipidsänkande behandling
     2. *Ezetimib (ezetimib) som tillägg till statin
 
 - För patienter med atheroskleros i carotisartärerna bör högintensiv 
-  kolesterolsänkning övervägas.
+  kolesterolsänkning (LDL-kolesterol < 1,8 mmol/l) övervägas.
 
 Trombosprofylax för patienter utan förmaksflimmer
 -------------------------------------------------
@@ -47,16 +48,17 @@ Trombosprofylax för patienter utan förmaksflimmer
     1. *Clopidogrel (klopidogrel)
     2. *Acetylsalicylsyra (acetylsalicylsyra) 75mg x 1
 
-- Undvik kombination med omeprazol. Byt till pantoprazol om syrahämning krävs.
+- Undvik klopidogrel i kombination med omeprazol. Byt till pantoprazol om 
+  syrahämning krävs.
 - Långtidsbehandling med dubbel trombocythämning bör undvikas pga risk för
-  blödning. Ange sluttid vid ordination.
+  blödning.
 
 Emboliprofylax för patienter med förmaksflimmer
 -----------------------------------------------
 
     1. Eliquis (apixaban)
     2. Pradaxa (dabigatran)
-    2. Warfarin (warfarin)
+    2. Warfarin Orion (warfarin)
 
 -   [Nationella riktlinjer för strokesjukvård Socialstyrelsen](http://www.socialstyrelsen.se/nationellariktlinjerforstrokesjukvard)
 -   Bland patienter med genomgången stroke/TIA finns en ökad förekomst av
