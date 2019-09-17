@@ -23,6 +23,7 @@ Profylax
 --------
 
     1. *Metoprolol (metoprolol) depottablett
+	1. *Amitryptilin (amitryptilin)
     2. Topiramat (topiramat) (S)
 
 -   Botulinum-toxin kan användas vid migränhuvudvärk med mer än 15
