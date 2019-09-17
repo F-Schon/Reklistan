@@ -26,8 +26,13 @@ Profylax
 	1. *Amitryptilin (amitryptilin)
     2. Topiramat (topiramat) (S)
 
--   Botulinum-toxin kan användas vid migränhuvudvärk med mer än 15
-    huvudvärksdagar per månad när minst två andra profylaxbehandlingar
-    inte har haft effekt. Ska endast användas efter neurologbedömning.
--   Aimovig *(erenumab)* är föremål för nationellt ordnat införande och
-    bör endast förskrivas enligt separat riktlinje.
+Profylax vid kronisk migrän
+---------------------------
+
+	3. Aimovig (erenumab) (S)
+	3. Botox (botulinumtoxin) (S)
+
+-   Botulinumtoxin eller erenumab kan användas vid kronisk migrän 
+    (migränhuvudvärk med mer än 15 huvudvärksdagar per månad varav 8 med 
+	migrän) när minst två andra profylaxbehandlingar inte har haft effekt.
+	Ska endast användas efter neurologbedömning.
