@@ -28,7 +28,6 @@ av neurolog eller läkare med stor erfarenhet av epilepsibehandling.
 
 -   Övriga preparat bör ses som specialistläkemedel.
 -   Levetiracetam doseras efter njurfunktion.
--   Byte till generika bör övervägas vid receptförnyelse. 
 -   Kvinnor som behandlas med antiepileptika bör behandlas med folsyra 5 mg 
     1x1 när graviditet planeras eller sättas in på folsyra vid konstaterad
 	graviditet.
