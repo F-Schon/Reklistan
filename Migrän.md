@@ -17,7 +17,6 @@ Akutbehandling
 -   Vid svårbehandlad migrän överväg samtidig spänningshuvudvärk eller
     läkemedelsinducerad huvudvärk
 -   För injektionsbehandling är generiskt sumatriptan förstahandsval.
--   Munlösligt ondansetron kan användas mot illamående.
 
 Profylax
 --------
