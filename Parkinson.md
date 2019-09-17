@@ -44,5 +44,4 @@ Icke-motoriska symtom
 -	Patienter med Parkinsons sjukdom i komplikationsfas är ofta 
     biverkningskänsliga. All läkemedelsbehandling oavsett indikation bör
 	noggrant utvärderas avseende nytta och biverkningar.
--	[Behandlingsriktlinjer Parkinsons sjukdom SWEMODIS 2014](http://www.swemodis.se/images/Dokument/Terapird%20Parkinsons%20sjukdom%20version%207%202014.pdf)
--
+-	[Behandlingsriktlinjer Parkinsons sjukdom SWEMODIS 2019](https://www.swemodis.se/images/Dokument/2019/Swemodis%20Riktlinjer%20for%20utredning%20och%20behandling%20av%20Parkinsons%20sjukdom%20version_8.pdf)
