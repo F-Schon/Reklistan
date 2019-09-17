@@ -4,7 +4,7 @@ Epilepsi
 Akutbehandling
 --------------
 
-    1. Stesolid prefill (diazepam)
+    1. *Diazepam (diazepam) rektallösning
     1. Stesolid Novum (diazepam)
     2. Buccolam (midazolam) peroral munhålelösning
 
