@@ -16,4 +16,3 @@ läkemedelsbiverkan (neuroleptika, antidepressiva) eller polyneuropati.
 -   Vid långtidsbehandling av yngre patienter med dopaminerga preparat,
     beakta risken för augmentation (med behov av dosökning pga
     läkemedelspåverkan).
--   [Läkemedelsboken](http://lakemedelsboken.se/kapitel/neurologi/allman_neurologi_och_multipel_skleros.html)

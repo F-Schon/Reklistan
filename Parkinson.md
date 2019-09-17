@@ -45,5 +45,4 @@ Icke-motoriska symtom
     biverkningskänsliga. All läkemedelsbehandling oavsett indikation bör
 	noggrant utvärderas avseende nytta och biverkningar.
 -	[Behandlingsriktlinjer Parkinsons sjukdom SWEMODIS 2014](http://www.swemodis.se/images/Dokument/Terapird%20Parkinsons%20sjukdom%20version%207%202014.pdf)
--	[Läkemedelsboken](http://lakemedelsboken.se/kapitel/neurologi/parkinsons_sjukdom.html)
 -	[Socialstyrelsens nationella riktlinjer 2016](http://www.socialstyrelsen.se/nationellariktlinjermsochparkinsonssjukdom)

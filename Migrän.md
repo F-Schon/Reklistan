@@ -18,7 +18,6 @@ Akutbehandling
     läkemedelsinducerad huvudvärk
 -   För injektionsbehandling är generiskt sumatriptan förstahandsval.
 -   Munlösligt ondansetron kan användas mot illamående.
--   [Läkemedelsboken](http://lakemedelsboken.se/kapitel/neurologi/huvudvark.html)
 
 Profylax
 --------
