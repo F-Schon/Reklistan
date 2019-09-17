@@ -60,6 +60,5 @@ Emboliprofylax för patienter med förmaksflimmer
     2. Pradaxa (dabigatran)
     2. Warfarin Orion (warfarin)
 
--   [Nationella riktlinjer för strokesjukvård Socialstyrelsen](http://www.socialstyrelsen.se/nationellariktlinjerforstrokesjukvard)
 -   Bland patienter med genomgången stroke/TIA finns en ökad förekomst av
     förmaksflimmer. Var frikostig med diagnostik, t.ex. tum-EKG
