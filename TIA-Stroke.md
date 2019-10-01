@@ -7,14 +7,14 @@ akutmottagning för utredning och behandling på strokeenhet.
     1. Reperfusionsbehandling
     2. *Acetylsalicylsyra (acetylsalicylsyra) 300 mg bolusdos
        + *Clopidogrel (klopidogrel) 300 mg bolusdos
- 
+    3. *Acetylsalicylsyra (acetylsalicylsyra) 300 mg bolusdos
+	   
 -   [Medicinsk riktlinje Akut handläggning av misstänkt stroke](http://dokpub.regionkronoberg.se/OpenDoc.aspx?Id=41997)
--   Efter intravenös trombolys ges trombocythämning med acetylsalicylsyra
-    i monoterapi tidigast efter 24 timmar.
--   Vid omfattande stroke där trombolys ej kunnat ges rekommenderas
-	acetylsalicylsyra i monoterapi.
--   Om behandling inte kan påbörjas inom 24 timmar från insjuknandet
-    bör trombocythämning endast ges i monoterapi enligt nedan.
+-   Acetylsalicylsyra i monoterapi rekommenderas vid:
+	- Omfattande stroke där trombolys ej kunnat ges.  
+    - Om behandling inte kan påbörjas inom 24 timmar från insjuknandet.
+	- Efter intravenös trombolys (ges tidigast efter 24 timmar)
+	- TIA med låg klinisk riskprofil.
 -   Vid bakomliggande atherosklerotisk sjukdom ges kombinationsbehandling
     med acetylsalicylsyra och clopidogrel i 3 veckor. Ange sluttid vid 
 	ordination.
