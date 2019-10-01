@@ -11,7 +11,6 @@ Motoriska symtom
     3. *Rasagilin (rasagilin)
 
 - Till yngre patienter rekommenderas i första hand dopaminagonister.
-- Amantadin (licens) kan användas vid svåra motoriska fluktuationer.
 
 Icke-motoriska symtom
 ---------------------
@@ -40,7 +39,6 @@ Icke-motoriska symtom
     2. Florinef (fludrokortison) (S)
     3. Midodrin (midodrin) (S)
 
--	Patienter med Parkinsons sjukdom bör följas via Parkinsonteam
 -	Patienter med Parkinsons sjukdom i komplikationsfas är ofta 
     biverkningskänsliga. All läkemedelsbehandling oavsett indikation bör
 	noggrant utvärderas avseende nytta och biverkningar.
