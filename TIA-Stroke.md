@@ -16,7 +16,7 @@ akutmottagning för utredning och behandling på strokeenhet.
 	- Efter intravenös trombolys (ges tidigast efter 24 timmar)
 	- TIA med låg klinisk riskprofil.
 -   Vid bakomliggande atherosklerotisk sjukdom ges kombinationsbehandling
-    med acetylsalicylsyra och clopidogrel i 3 veckor. Ange sluttid vid 
+    med acetylsalicylsyra och klopidogrel i 3 veckor. Ange sluttid vid 
 	ordination.
 
 TIA/Stroke - sekundärprevention
