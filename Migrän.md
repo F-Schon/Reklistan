@@ -12,11 +12,11 @@ Akutbehandling
     1. *Naproxen (naproxen)
     2. *Sumatriptan (sumatriptan) tablett
     3. Zomig Nasal (zolmitriptan)
+	4. *Sumatriptan (sumatriptan) subkutan injektion
 
 -   Icke-farmakologisk behandling bör ingå tidigt i behandlingen. 
 -   Vid svårbehandlad migrän överväg samtidig spänningshuvudvärk eller
     läkemedelsinducerad huvudvärk
--   För injektionsbehandling är generiskt sumatriptan förstahandsval.
 
 Profylax
 --------
